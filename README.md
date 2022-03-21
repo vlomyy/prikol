@@ -1,3 +1,3 @@
 # prikol
-zadanie ivana
+zadanie ivana для барса
 попробовал коммитить, вроде получилось
